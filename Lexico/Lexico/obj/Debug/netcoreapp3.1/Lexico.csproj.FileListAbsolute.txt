@@ -1,0 +1,13 @@
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\obj\Debug\netcoreapp3.1\Lexico.csprojAssemblyReference.cache
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\obj\Debug\netcoreapp3.1\Lexico.AssemblyInfoInputs.cache
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\obj\Debug\netcoreapp3.1\Lexico.AssemblyInfo.cs
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\obj\Debug\netcoreapp3.1\Lexico.csproj.CoreCompileInputs.cache
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\bin\Debug\netcoreapp3.1\Lexico.exe
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\bin\Debug\netcoreapp3.1\Lexico.deps.json
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\bin\Debug\netcoreapp3.1\Lexico.runtimeconfig.json
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\bin\Debug\netcoreapp3.1\Lexico.runtimeconfig.dev.json
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\bin\Debug\netcoreapp3.1\Lexico.dll
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\bin\Debug\netcoreapp3.1\Lexico.pdb
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\obj\Debug\netcoreapp3.1\Lexico.dll
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\obj\Debug\netcoreapp3.1\Lexico.pdb
+C:\Users\nando\Documents\Programacion\VS\Lexico1\Lexico\Lexico\obj\Debug\netcoreapp3.1\Lexico.genruntimeconfig.cache
